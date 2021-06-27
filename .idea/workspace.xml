@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99b8b332-4d90-4597-9052-d81f1baba3e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/at/team/MaintenanceMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/at/team/Test_MaintenanceMonitor_Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/at/team/Test_MaintenanceMonitor_Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/at/team/Test_MaintenanceMonitor_createInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/at/team/Test_MaintenanceMonitor_outputInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/team/MaintenanceMonitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/team/MaintenanceMonitor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,16 +30,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1uY2UTyUkSUGKPnkX2mw5ymtxq8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Google Drive/Uni/2_Semester/07_Software Lifecycle Management/cheat/Maintenance_Monitor" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="MaintenanceMonitor" />
@@ -40,9 +52,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="at.team in MaintenanceMonitor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MaintenanceMonitor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.team.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.team" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.at.team in MaintenanceMonitor" />
       </list>
     </recent_temporary>
   </component>
@@ -66,5 +93,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
