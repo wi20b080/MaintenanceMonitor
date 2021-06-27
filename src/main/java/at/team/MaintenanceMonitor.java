@@ -13,7 +13,7 @@ public class MaintenanceMonitor {
     @GET
     @Produces(MediaType.TEXT_HTML)
     public String getIndex() throws IOException {
-        java.nio.file.Path path =  java.nio.file.Paths.get("C:\\Users\\Sam\\Documents\\Maintenance_Monitor\\front\\index.html");
+        java.nio.file.Path path =  java.nio.file.Paths.get("C:\\Users\\43670\\Desktop\\SLM\\MaintenanceMonitor\\front\\index.html");
         return java.nio.file.Files.readString(path);
     }
     @GET
